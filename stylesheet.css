@@ -1,0 +1,77 @@
+h1 {
+  margin-top: auto;
+  font-size: 50px;
+  text-align: center;
+  color: #B0E0E6;
+  border: 3px solid #800000;
+  font-family: cursive;
+  padding: 1%;
+  background-color: #FAFAD2;
+  border-bottom-width: 1em;
+  border-top-width: 1em;
+  border-left-width: 1em;
+  border-right-width: 1em;
+}
+
+
+
+table img {
+  height: 300px;
+  width: 300px;
+  border: 2px dashed green;
+}
+
+.dude {
+  color: #CDFFFF;
+}
+
+body {
+  background-color: #00CED1;
+  border: 5px ridge green;
+}
+
+div {
+  display: inline-block;
+  text-align: right;
+  margin-left: 35px;
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+  border: 2px solid black;
+}
+.friend {
+    border: 2px groove #008000;
+    background-color: #90EE90;
+}
+.enemy {
+    border: 2px ridge #FF0000;
+    background-color: #FF4500;
+}
+.family {
+    border: 2px solid #0000FF;
+    background-color: #87CEEB;
+}
+
+div p {
+  font-size: 16px;
+  margin-top: 100px;
+  text-align: center;
+}
+
+#yeah {
+  font-size: 20px;
+  font-family: cursive;
+  color: #006600;
+}
+
+#no {
+  font-size: 20px;
+  font-family: cursive;
+  color: #800000;
+}
+
+#definetely {
+  font-size: 20px;
+  font-family: cursive;
+  color: #4169E1;
+}
